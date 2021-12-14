@@ -1,0 +1,4 @@
+#Tue Dec 14 19:22:41 ICT 2021
+base.0=C\:\\Users\\Asbiq Al Alawi\\Downloads\\Aplikasi-Peminjama-mobil-main\\Aplikasi-Peminjama-mobil-main\\frent-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
